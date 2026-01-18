@@ -24,6 +24,9 @@ I am a Life Sciences w Cs student exploring Python,ML and computational tools fo
 ### Contributions
 - 1st contribution: https://github.com/Shad921z/first-contributions
 
+### Portfolio
+-> https://shad921z.vercel.app/
+
 ### 📫 Connect
 - LinkedIn: https://linkedin.com/shadkhan921z
 - Email: shadkhan921z@gmail.com
