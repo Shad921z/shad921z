@@ -1,72 +1,163 @@
 <div align="center">
 
-<br/>
+# Shad Khan
 
-# Shad
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Life+Sciences+%7C+Bioinformatics+%7C+Machine+Learning;Building+AI+for+Biology;Python+%E2%80%A2+Data+Science+%E2%80%A2+Research;Always+Learning+Something+New" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=6B7280&center=true&vCenter=true&width=520&lines=Life+Sciences+%2B+Computer+Science;Python+%C2%B7+Machine+Learning+%C2%B7+Bioinformatics" alt="Typing SVG" />
+<br>
 
-<br/><br/>
+<a href="https://github.com/Shad921z">
+<img src="https://img.shields.io/github/followers/Shad921z?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://shad921z.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square)](https://linkedin.com/shadkhan921z)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square)](mailto:shadkhan921z@gmail.com)
+<a href="https://linkedin.com/in/shadkhan921z">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="mailto:shadkhan921z@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
-
-I'm a Life Sciences student with a growing footing in CS — exploring how Python and machine learning can be applied to biology and lab work.
-
-<br/>
-
-### Currently
-
-- Learning ML with Python for scientific applications
-- Building small, lab-focused tools
-- Exploring bioinformatics & data analysis
-
-<br/>
-
-### Stack
-
-<div align="left">
-
-`Python`&nbsp;&nbsp;`SQL`&nbsp;&nbsp;`Flask`&nbsp;&nbsp;`Git`&nbsp;&nbsp;`GitHub`&nbsp;&nbsp;`Biochemistry & Lab Data Analysis`
+<a href="https://shad921z.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-### Projects
+## About Me
 
-**[Protein Structure Database](https://github.com/Shad921z/Protein-Structure-Database)**
-Organizing and exploring protein structure data.
+I'm a **Life Sciences student** exploring the intersection of **biology, artificial intelligence, and data science**.
 
-**[Glucose Estimator & Analyzer](https://github.com/Shad921z/Glucose-Estimator)**
-Estimating and analyzing glucose levels from biological data.
+My goal is to build computational tools that help researchers analyze biological data, automate laboratory workflows, and extract meaningful insights from complex datasets.
 
-<br/>
+Currently focusing on:
 
-### Open Source
+- Bioinformatics
+- Machine Learning
+- Python Development
+- Biological Data Analysis
+- Scientific Computing
 
-**[First Contribution](https://github.com/Shad921z/first-contributions)** — where my open source journey began.
+---
 
-<br/>
+## Current Journey
+
+```text
+Learning ██████████░░░ 75%
+
+Python                ████████████
+Machine Learning      █████████░░
+Bioinformatics        ███████░░░░
+Data Analysis         █████████░░
+Research Projects     ████████░░░
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sqlite,bash"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask"/>
+</p>
+
+### Scientific Computing
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Biostatistics
+- Bioinformatics
+- Biological Data Analysis
+
+---
+
+## Featured Projects
+
+### Protein Structure Database
+
+Organizing and exploring protein structure datasets using Python.
+
+**Tech**
+
+`Python`
+`Data Processing`
+`Bioinformatics`
+
+---
+
+### Glucose Estimator & Analyzer
+
+A biological data analysis project focused on glucose estimation and visualization.
+
+**Tech**
+
+`Python`
+`Machine Learning`
+`Data Analysis`
+
+---
+
+### Current Goal
+
+Build practical AI-powered tools for:
+
+- Laboratory Automation
+- Biomedical Data Analysis
+- Disease Prediction
+- Bioinformatics Pipelines
+- Scientific Visualization
+
+---
+
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shad921z&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+## Research Interests
+
+- Computational Biology
+- Bioinformatics
+- Artificial Intelligence in Healthcare
+- Machine Learning
+- Biological Data Mining
+- Systems Biology
+- Biostatistics
+
+---
+
+## Currently Exploring
+
+- Building portfolio-worthy bioinformatics projects
+- Scientific Python ecosystem
+- Deep Learning for Biology
+- Open Source
+- Research Collaboration
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shad921z&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=6B7280&title_color=333" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shad921z&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333&title_color=333" width="34%"/>
+### "Turning biological data into meaningful insights through code."
+
+<br>
+
+⭐ If you like my work, consider following my journey.
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[shad921z.vercel.app](https://shad921z.vercel.app/) · [LinkedIn](https://linkedin.com/shadkhan921z) · [shadkhan921z@gmail.com](mailto:shadkhan921z@gmail.com)
-
-</div>
-
-<br/>
